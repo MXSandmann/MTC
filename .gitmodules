@@ -1,0 +1,6 @@
+[submodule "MotorcyclesBackend"]
+	path = MotorcyclesBackend
+	url = .\\MotorcyclesBackend\\
+[submodule "MotorcyclesFrontend"]
+	path = MotorcyclesFrontend
+	url = .\\MotorcyclesFrontend\\
