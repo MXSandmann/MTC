@@ -1,6 +1,6 @@
 [submodule "MotorcyclesBackend"]
 	path = MotorcyclesBackend
-	url = .\\MotorcyclesBackend\\
+	url = https://github.com/MXSandmann/MotorcyclesBackend.git
 [submodule "MotorcyclesFrontend"]
 	path = MotorcyclesFrontend
-	url = .\\MotorcyclesFrontend\\
+	url = https://github.com/MXSandmann/MotorcyclesFrontend.git
